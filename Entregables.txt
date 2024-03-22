@@ -1,0 +1,13 @@
+Evaluacion ConErrores-v65_Adam.ipynb : Proceso de validacion con set con errores  y ADAM como optimizador
+
+Evaluacion ConErrores-v65_AdamW.ipynb : Proceso de validacion con set con errores y ADAMW como optimizador
+
+Evaluacion Testeo-v65_Adam.ipynb : Proceso de Testing con datos modelados con ADAM como optimizador
+
+Evaluacion Testeo-v65_Adamw.ipynb : Proceso de Testing con datos modelados con ADAMW como optimizador
+
+Modeladov65-adam.ipynb : Proceso de modelacion con ADAM como optimizador
+
+Modeladov65-adamw.ipynb : Proceso de modelacion con ADAMW como optimizador
+
+Log_Con_Errores.csv : set de datos erroneos para proceso de validacion 
